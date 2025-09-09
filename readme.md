@@ -23,4 +23,4 @@ Este repositório contém materiais e exemplos para a aula de introdução ao Gi
 5. Envie um pull request
 
 ## Autor
-Aula introdutória sobre Git e GitHub
+Aula introdutória sobre Git e GitHub lads
